@@ -56,3 +56,20 @@ font-weight:bolder;
 .online-course-padding{
     padding-top:30px;
 }
+.testimonial-dimension{
+  margin-left:100px;  
+  margin-right:100px;
+}
+.man-size{
+    width: 250px;
+    height: 120px;
+    padding-left:45%;
+    
+}
+.testimonial-text{
+    text-align:justify;
+}
+.last-part{
+    background-color: #282531;
+    height:400px;
+}
