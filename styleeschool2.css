@@ -1,0 +1,49 @@
+.top-part{
+margin-left:0px;
+margin-right:0px;
+margin-top:0px;
+background-color:#F0FFF0;
+height:550px;
+margin-bottom:50px;
+}
+.logo-at-top{
+    width: 198.07px;
+    height: 59px;
+}
+.top-part-text2{
+font-weight:bolder;
+}
+.borderditehobe{
+    border:1px solid black;
+}
+.top-part-div-padding{
+    padding-left:15px;
+    padding-top:30px;
+}
+.container{
+    margin-bottom:50px;
+}
+.nav-padding{
+    padding-left:0px;
+    padding-top:15px;
+}
+.top-part-illustration{
+    width:575px;
+    height:350px;
+}
+.top-part-illustration-padding{
+    padding-left:15px;
+}
+.second-part{
+    height:500px;
+}
+.card-height{
+    height:450px;
+}
+.card-texts{
+    text-align:center;
+}
+.card-imgages{
+    width: 66px;
+    height: 85px;
+}
