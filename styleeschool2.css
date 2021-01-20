@@ -35,15 +35,24 @@ font-weight:bolder;
     padding-left:15px;
 }
 .second-part{
-    height:500px;
+    height:400px;
 }
-.card-height{
-    height:450px;
-}
-.card-texts{
-    text-align:center;
-}
+
 .card-imgages{
     width: 66px;
     height: 85px;
+}
+
+.card-items-align{
+    padding-top:65px;
+    padding-bottom:65px;
+}
+.card-body{
+    background-color:#fafdfa;
+}
+.online-courses-icon{
+        width: 24px;   
+}
+.online-course-padding{
+    padding-top:30px;
 }
