@@ -1,3 +1,6 @@
+body{
+    font-family:verdana;
+}
 .top-part{
 margin-left:0px;
 margin-right:0px;
@@ -12,9 +15,6 @@ margin-bottom:50px;
 }
 .top-part-text2{
 font-weight:bolder;
-}
-.borderditehobe{
-    border:1px solid black;
 }
 .top-part-div-padding{
     padding-left:15px;
@@ -58,6 +58,9 @@ font-weight:bolder;
 }
 .online-courses-img-padding{
     padding:15px;
+}
+.online-course-card-bradius{
+    border-radius:4%;
 }
 .testimonial-dimension{
   margin-left:100px;  
